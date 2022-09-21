@@ -1,0 +1,148 @@
+{
+    "number": 0,
+    "numberOfElements": 1,
+    "totalElements": 1,
+    "totalPages": 1,
+    "size": 10,
+    "last": false,
+    "first": true,
+    "sort": null,
+    "content": [
+      {
+        "id": 133691,
+        "ean": "7798351084215",
+        "descripcion": "CARGADOR PARA BATERIA DE MONOPATIN ESC003 KUSHIRO",
+        "modelo": "",
+        "medida": "42 V",
+        "alias": null,
+        "marca": {
+          "id": 1321,
+          "nombre": "KUSHIRO"
+        },
+        "perfil": "CV",
+        "empaque": 0.0,
+        "grupo": {
+          "id": "ME",
+          "nombre": "MERCADERIA"
+        },
+        "familia": null,
+        "escala": {
+          "id": 5,
+          "nombre": "C/U",
+          "abreviatura": "C/U"
+        },
+        "impuestos": [
+          {
+            "impuesto": {
+              "id": 1,
+              "descripcion": "IVA 21%",
+              "alicuota": 21.0,
+              "monto": 0.0,
+              "clasif": "IVGR"
+            }
+          }
+        ],
+        "nota": "- Voltaje: 42 V\r\n- Capacidad de carga: 10,4 Ah\r\n\r\n\r\n@@#\r\nTAMAÑO;0-0-0;\r\nPESO;0;\r\nVARIACIONES;VACIO;POTENCIA;\r\nENTREGA;OCA;RETIRO;\r\n@@#",
+        "categoria": {
+          "id": 417,
+          "descripcion": "Cargadores de Baterías",
+          "categoriaPath": "Accesorios para Vehiculos -> Herramientas -> Cargadores de Baterías"
+        },
+        "listas": [
+          {
+            "id": 157816,
+            "lista": {
+              "id": 114,
+              "nombre": "CARRITO DE COMPRAS",
+              "color": 0
+            },
+            "utilidad": 98.19,
+            "moneda": {
+              "id": 1,
+              "nombre": "PESO",
+              "simbolo": "$"
+            },
+            "cambio": {
+              "cambio": 1.0
+            },
+            "pr_cto_lista": 1383.0,
+            "porc_dr": 0.0,
+            "pr_venta": 2740.9677,
+            "pr_final": 3316.5709,
+            "porc_bonif": 0.0,
+            "fec_inicio": "1990-01-01",
+            "fec_fin": "2050-01-01"
+          },
+          {
+            "id": 157797,
+            "lista": {
+              "id": 0,
+              "nombre": "CONTADO EFECTIVO",
+              "color": -2147483644
+            },
+            "utilidad": 88.37,
+            "moneda": {
+              "id": 1,
+              "nombre": "PESO",
+              "simbolo": "$"
+            },
+            "cambio": {
+              "cambio": 1.0
+            },
+            "pr_cto_lista": 1383.0,
+            "porc_dr": 0.0,
+            "pr_venta": 2605.1571,
+            "pr_final": 3152.2401,
+            "porc_bonif": 0.0,
+            "fec_inicio": "1990-01-01",
+            "fec_fin": "2050-01-01"
+          },
+          {
+            "id": 157815,
+            "lista": {
+              "id": 104,
+              "nombre": "MERCADO LIBRE",
+              "color": 65535
+            },
+            "utilidad": 88.37,
+            "moneda": {
+              "id": 1,
+              "nombre": "PESO",
+              "simbolo": "$"
+            },
+            "cambio": {
+              "cambio": 1.0
+            },
+            "pr_cto_lista": 1383.0,
+            "porc_dr": 0.0,
+            "pr_venta": 2605.1571,
+            "pr_final": 3152.2401,
+            "porc_bonif": 0.0,
+            "fec_inicio": "1990-01-01",
+            "fec_fin": "2050-01-01"
+          }
+        ],
+        "etiquetas": [
+          
+        ],
+        "codigo": "ESC006",
+        "codigo_externo": null,
+        "desc_imp_fiscal": "CARGADOR PARA BATERIA DE MONOPATIN ESC003 KUSHIRO",
+        "desc_etiqueta": "CARGADOR PARA BATERIA DE MONOPATIN ESC003",
+        "calc_desc": "CARGADOR PARA BATERIA DE MONOPATIN ESC003 KUSHIRO  42 V",
+        "moneda_costo": {
+          "id": 1,
+          "nombre": "PESO",
+          "simbolo": "$"
+        },
+        "admin_existencia": true,
+        "activo_hasta": null,
+        "publica_web": true,
+        "tiene_sust": false,
+        "tiene_compl": false,
+        "pr_minimo": null,
+        "bucket_id": "601e81ce734ae115844f0b6f",
+        "desc_cliente": "CARGADOR PARA BATERIA DE MONOPATIN KUSHIRO ESC003"
+      }
+    ]
+  }

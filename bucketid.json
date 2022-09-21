@@ -1,0 +1,110 @@
+{
+    "page": {
+        "total": 4,
+        "page": 1,
+        "pages": 1
+    },
+    "content": [
+        {
+            "_id": "5e4bf02262dd2f00bc750438",
+            "filename": "WRTWRTWE.jpg",
+            "length": 167418,
+            "uploadDate": "2020-02-18T14:09:38.497Z",
+            "md5": "3b179b77756f1b3a58b5454092a56c61",
+            "bucket": {
+                "_id": "5e4bf01c62dd2f00bc750434",
+                "nombre": "ART_129594",
+                "nota": "Nota para el articulo n129594",
+                "created_at": "2020-02-18T14:09:32.879Z",
+                "updated_at": "2020-10-05T12:32:33.033Z",
+                "links": []
+            },
+            "labels": [
+                {
+                    "_id": "5e09e00a62dd2f00bc74fa15",
+                    "nombre": "MERCADOLIBRE"
+                }
+            ],
+            "content_type": "image/jpeg",
+            "descripcion": "Algo",
+            "url": "http://de-diego.bbjetcloud.com/recursos/api/resources/5e4bf02262dd2f00bc750438",
+            "orden": "3"
+        },
+        {
+            "_id": "5e4bf02362dd2f00bc75043a",
+            "filename": "WTWEHRT.jpg",
+            "length": 168007,
+            "uploadDate": "2020-02-18T14:09:39.358Z",
+            "md5": "d6bb9db96649dee9ed6659e43d8fb33a",
+            "bucket": {
+                "_id": "5e4bf01c62dd2f00bc750434",
+                "nombre": "ART_129594",
+                "nota": "Nota para el articulo n129594",
+                "created_at": "2020-02-18T14:09:32.879Z",
+                "updated_at": "2020-10-05T12:32:33.033Z",
+                "links": []
+            },
+            "labels": [
+                {
+                    "_id": "5e09e00a62dd2f00bc74fa15",
+                    "nombre": "MERCADOLIBRE"
+                }
+            ],
+            "content_type": "image/jpeg",
+            "descripcion": "Algo",
+            "url": "http://de-diego.bbjetcloud.com/recursos/api/resources/5e4bf02362dd2f00bc75043a",
+            "orden": "4"
+        },
+        {
+            "_id": "5e4bf02462dd2f00bc75043c",
+            "filename": "WTWER.jpg",
+            "length": 137565,
+            "uploadDate": "2020-02-18T14:09:40.063Z",
+            "md5": "0d14ddf1baea0388f5b79d8039330435",
+            "bucket": {
+                "_id": "5e4bf01c62dd2f00bc750434",
+                "nombre": "ART_129594",
+                "nota": "Nota para el articulo n129594",
+                "created_at": "2020-02-18T14:09:32.879Z",
+                "updated_at": "2020-10-05T12:32:33.033Z",
+                "links": []
+            },
+            "labels": [
+                {
+                    "_id": "5e09e00a62dd2f00bc74fa15",
+                    "nombre": "MERCADOLIBRE"
+                }
+            ],
+            "content_type": "image/jpeg",
+            "descripcion": "Algo",
+            "url": "http://de-diego.bbjetcloud.com/recursos/api/resources/5e4bf02462dd2f00bc75043c",
+            "orden": "2"
+        },
+        {
+            "_id": "5e4bf02462dd2f00bc75043e",
+            "filename": "WWHTYER.jpg",
+            "length": 90922,
+            "uploadDate": "2020-02-18T14:09:40.719Z",
+            "md5": "2b1aecefa4b1509b2514d90e6d82b6a5",
+            "bucket": {
+                "_id": "5e4bf01c62dd2f00bc750434",
+                "nombre": "ART_129594",
+                "nota": "Nota para el articulo n129594",
+                "created_at": "2020-02-18T14:09:32.879Z",
+                "updated_at": "2020-10-05T12:32:33.033Z",
+                "links": []
+            },
+            "labels": [
+                {
+                    "_id": "5e09e00a62dd2f00bc74fa15",
+                    "nombre": "MERCADOLIBRE"
+                }
+            ],
+            "content_type": "image/jpeg",
+            "descripcion": "Algo",
+            "url": "http://de-diego.bbjetcloud.com/recursos/api/resources/5e4bf02462dd2f00bc75043e",
+            "orden": "1"
+        }
+    ],
+    "links": []
+}
